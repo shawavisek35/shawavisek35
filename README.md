@@ -4,7 +4,7 @@
 Love to participate in Hackathons, ✨Won✨ ACM-East India Hackathon 2020 (kolkata):computer:Competitive Programmer:computer:
 ---
 ###  🔭 Ex-Web Developer Intern at Netwizard Technologies Private Limited
-###  🔭 I’m currently working @ GeeksForGeeks.com as an Intern
+###  🔭 I’m currently working @ GeeksForGeeks.org as an Intern
 ###  📫 Reach me at [avisek.code](https://avisekcode.netlify.app/)
 ---
 ### 🌱 Github Stats
