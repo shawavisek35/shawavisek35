@@ -3,7 +3,8 @@
 💬 An undergrad Computer Science Engineering student with experience in FullStack development on MERN stack and Interests in AI/ML. 
 Love to participate in Hackathons, ✨Won✨ ACM-East India Hackathon 2020 (kolkata):computer:Competitive Programmer:computer:
 ---
-###  🔭 Ex-Web Developer Intern at Netwizard Technologies Private Limited
+###  :boom: MERN stack developer.
+###  🔭 Ex-MERN stack Developer Intern at Netwizard Technologies Private Limited
 ###  🔭 I’m currently working @ GeeksForGeeks.org as an Intern
 ###  📫 Reach me at [avisek.code](https://avisekcode.netlify.app/)
 ---
