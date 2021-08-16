@@ -5,6 +5,7 @@ Love to participate in Hackathons, ✨Won✨ ACM-East India Hackathon 2020 (kolk
 ---
 ###  :boom: MERN stack developer.
 ###  🔭 Ex-MERN stack Developer Intern at Netwizard Technologies Private Limited
+###  🔭 Full Stack Developer at Glow Radius
 ###  🔭 I’m currently working @ GeeksForGeeks.org as an Intern
 ###  📫 Reach me at [avisek.code](https://avisekcode.netlify.app/)
 ---
