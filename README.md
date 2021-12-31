@@ -14,4 +14,78 @@ Love to participate in Hackathons, ✨Won✨ ACM-East India Hackathon 2020 (kolk
 <!--![github stats](https://github-readme-stats.vercel.app/api?username=shawavisek35&show_icons=true&theme=radical)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawavisek35&layout=compact)](https://github.com/shawavisek35)
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 221 Contributions in the Year 2021
+ > 
+> 📦 71.3 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 43 Public Repositories 
+ > 
+> 🔑 16 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    89 commits     ██████░░░░░░░░░░░░░░░░░░░   24.86% 
+🌆 Daytime    113 commits    ████████░░░░░░░░░░░░░░░░░   31.56% 
+🌃 Evening    148 commits    ██████████░░░░░░░░░░░░░░░   41.34% 
+🌙 Night      8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.23%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.8% 
+Tuesday      40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.17% 
+Wednesday    56 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.64% 
+Thursday     71 commits     █████░░░░░░░░░░░░░░░░░░░░   19.83% 
+Friday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.41% 
+Saturday     50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.97% 
+Sunday       40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.17%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               22 repos            ████████████░░░░░░░░░░░░░   50.0% 
+Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/shawavisek35/shawavisek35/master/charts/bar_graph.png) 
+
+
+ Last Updated on 31/12/2021
 <!--END_SECTION:waka-->
