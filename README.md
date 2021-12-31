@@ -14,13 +14,13 @@ Love to participate in Hackathons, ✨Won✨ ACM-East India Hackathon 2020 (kolk
 <!--![github stats](https://github-readme-stats.vercel.app/api?username=shawavisek35&show_icons=true&theme=radical)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawavisek35&layout=compact)](https://github.com/shawavisek35)
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 221 Contributions in the Year 2021
+> 🏆 222 Contributions in the Year 2021
  > 
-> 📦 71.3 kB Used in GitHub's Storage 
+> 📦 71.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -43,8 +43,8 @@ Love to participate in Hackathons, ✨Won✨ ACM-East India Hackathon 2020 (kolk
 Monday       53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.8% 
 Tuesday      40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.17% 
 Wednesday    56 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.64% 
-Thursday     71 commits     █████░░░░░░░░░░░░░░░░░░░░   19.83% 
-Friday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.41% 
+Thursday     70 commits     █████░░░░░░░░░░░░░░░░░░░░   19.55% 
+Friday       49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
 Saturday     50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.97% 
 Sunday       40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.17%
 
