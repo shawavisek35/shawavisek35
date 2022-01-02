@@ -1,10 +1,9 @@
 # Hi there 👋 I am Avisek Shaw ✨
-#### Developer Student Clubs Lead from CIEM :star:
-💬 An undergrad Computer Science Engineering student with experience in FullStack development on MERN stack and Interests in AI/ML. 
-Love to participate in Hackathons, ✨Won✨ ACM-East India Hackathon 2020 (kolkata):computer:Competitive Programmer:computer:
+
 ---
+#### :computer: Former Google Developer Student Clubs Lead from CIEM :star: 
+###  ✨ ACM-East India Hackathon 2020 (kolkata)
 ###  :boom: MERN stack developer.
-###  🔭 Ex-MERN stack Developer Intern at Netwizard Technologies Private Limited
 ###  🔭 Full Stack Developer at Glow Radius
 ###  📫 Reach me at [avisek.code](https://avisekcode.netlify.app/)
 ---
