@@ -13,7 +13,7 @@
 <!--![github stats](https://github-readme-stats.vercel.app/api?username=shawavisek35&show_icons=true&theme=radical)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawavisek35&layout=compact)](https://github.com/shawavisek35)
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -86,5 +86,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shawavisek35/shawavisek35/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/01/2022
+ Last Updated on 14/01/2022
 <!--END_SECTION:waka-->
