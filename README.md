@@ -1,7 +1,7 @@
 # Hi there 👋 I am Avisek Shaw ✨
 
 ---
-#### :computer: Former Google Developer Student Clubs Lead from CIEM :star: 
+### :computer: Former Google Developer Student Clubs Lead from CIEM :star: 
 ###  ✨ ACM-East India Hackathon 2020 (kolkata)
 ###  :boom: MERN stack developer.
 ###  🔭 Full Stack Developer at Glow Radius
