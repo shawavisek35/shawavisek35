@@ -4,7 +4,8 @@
 ### :computer: Former Google Developer Student Clubs Lead from CIEM :star: 
 ###  ✨ ACM-East India Hackathon 2020 (kolkata)
 ###  :boom: MERN stack developer.
-###  🔭 Full Stack Developer at Glow Radius
+###  🔭 Software Engineer at CloudKaptan
+###  🔭 Ex Full Stack Developer at GlowRadius
 ###  📫 Reach me at [avisek.code](https://avisekcode.netlify.app/)
 ---
 ### 🌱 Github Stats
